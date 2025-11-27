@@ -55,4 +55,4 @@ Organizations often struggle to understand the root causes of:
 - Support HR strategy with evidence-based insights
 
 ## Dashboard Preview
-https://github.com/AmulyaChougale/HR-analytics-dashboard/blob/main/HRDASHBOARD_snapshot.jpg
+HRDASHBOARD_snapshot.jpg
